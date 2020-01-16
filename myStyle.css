@@ -1,0 +1,76 @@
+#hall {
+    background: grey;
+
+    width: 990px;
+    height: 1000px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+    position: relative;
+    top:-160px;
+    left: -30px;
+    border: none;
+    border-radius: 20px;
+
+}
+#out{
+     position:relative;
+     top:410px;
+     left:35%;
+      border:2px solid gold;
+      height:180px;
+      width:29%;
+        border-radius: 20px;
+        background-color:#f2f2f2;
+           border-color: gold;
+
+  }
+#reciept{
+  width: 50%;
+  height:43%;
+  position: relative;
+  left: 35%;
+  top: -30%;
+  border: none;;
+  border-radius: 5px;
+  background:#FFB833;
+}
+#mau{
+  height: 10px;
+  width: 50px;
+  position: relative;
+  top: -80px;
+  left: 49%;
+}
+#cinema{
+  background:url("ass/back.jpg");
+      height: 400px;
+      width: 100%;
+      position: relative;
+      top: -190px;
+      color: #fff;
+}
+#payment{
+  background-color:#d9d9d9;
+  width:30%;
+  height: 370px;
+  position: relative;
+  left: 30%;
+  top: -120px;
+  border-radius: 20px;
+}
+#mydiv{
+  display: none;
+  position: relative;
+  top: -500px;
+  left: 10px;
+}
+#ran{
+ /* background-color: red;*/
+  color: black;
+ /* height: 200px;*/
+  position: relative;
+  top:-88px;
+  font-size: 7px;
+  left: 75px;
+
+}
